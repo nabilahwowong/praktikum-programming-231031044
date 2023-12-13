@@ -1,7 +1,7 @@
 # praktikum-programming-231031044
-<h1> nama  : nabilah ramadhani wowong</h1>
-<h1> nim   : 231031044  </h1>
-<h1> prodi : sistem informasi b  </h1>
+<div> nama  : nabilah ramadhani wowong</div>
+<div> nim   : 231031044  </div>
+<div> prodi : sistem informasi b  </div>
 
 * praktikum 1: pengenalan variabel `praktikum-1.py` 
  
